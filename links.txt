@@ -1,0 +1,12 @@
+links to make presentation
+____________________________
+rotatiion description
+https://automaticaddison.com/how-to-describe-the-rotation-of-a-robot-in-2d/
+
+kalman filter
+https://medium.com/@jannik.zuern/robot-localization-with-kalman-filters-and-landmarks-cf97fa44e80b
+
+khan academy tutorials for angular velocity
+https://www.khanacademy.org/science/ap-physics-1/ap-centripetal-force-and-gravitation/introduction-to-uniform-circular-motion-ap/v/angular-velocity-and-speed
+
+
